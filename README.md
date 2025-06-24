@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png"/>
 
 <h3>Greeting 👍</h3>
-  I am an enthusiastic web developer with a rich experience of over 6 years in website & Application
+  I am an enthusiastic web developer with a rich experience of over 8 years in website & Application
   development.
   <br>I am also self-motivated, dedicated developer with high attention to detail. I am productive in both team-based
   and self-managed projects<br>
