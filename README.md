@@ -1,17 +1,22 @@
+<div align="center">
+    <h1 align="center"> 
+       <a>
+          Full Stack, Mobile, Desktop & AI Developer
+       </a> 👋
+    </h1>
+</div>
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png"/>
 
-<h3>Greeting 👍</h3>
-  I am an enthusiastic web developer with a rich experience of over 8 years in website & Application
-  development.
-  <br>I am also self-motivated, dedicated developer with high attention to detail. I am productive in both team-based
-  and self-managed projects<br>
-  With years of experience in web and app development I have mastered the skills of understanding client requirements according to the latest trends. I've experienced in many project of business so you can rely on me for yours.<br>
-  <h4>✨ My highlights are :</h4>
-  * Easy going person: I'm an easy-going person.<br>
-  * Enterprising manner: I always work with my Enterprinsing business attitude
-  I am a dedicated person.<br>
+<h3>👋 Greetings! </h3>
+I am a passionate Full Stack, Mobile, Desktop, and AI Developer with over 8 years of experience in software development. I specialize in building scalable web applications, mobile apps, desktop software, AI-powered solutions, and backend systems that help businesses grow and operate more efficiently.
+<br> As a self-motivated and detail-oriented developer, I thrive in both collaborative team environments and independent projects. My experience across multiple industries enables me to quickly understand business requirements and deliver high-quality solutions using modern technologies and best practices.
+
+  <h4>✨ Highlights </h4>
+  * Easy to Work With – Professional, communicative, and committed to long-term success.<br>
+  * Business-Oriented Approach – Focused on delivering solutions that create measurable value.<br>
   * Good quality and punctuality: I am always trying to satify my clients based on the best qualiy, and in time.<br>
-  * clean in coding: I am used coding to be detail and cleanly.<br>
+  * Strong Problem-Solving Skills – Experienced in tackling complex technical challenges.<br>
+  * Deadline-Focused – Dedicated to meeting project milestones and deadlines.<br>
 
  ## Prefered Technicals
 <p align="center">
@@ -20,22 +25,23 @@
 
   <br>
   <h4>👌 My technical skillset are :</h4>
-  • Programing languages: HTML/HTML5, CSS/CSS3, JavaScript/TypeScript/EC6/EC7, Python, PHP, C#, Java, solidity<br>
-  • Experienced frameworks:<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;For frontend: React(including Redux, Redux-thunk or saga, React-router), Next.js, Vue,
-  Bootstrap<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;For backend: Express/Node.js, Laravel, Django<br>
-  • Databases: MysQL, postgresQL, MongoDB, sqllite3<br>
-  • AI : AI, ML, openAI, Langchain
-  <br>
-  • 👍In the blockchain domain, I have hands-on experience with Blockchain, 📌NFT,  📌Smart Contract, 
-    📌DEX,  📌DeFi, 📌Solidity, 📌Web3, 📌Truffle, 📌Rust, 📌Solana, and 📌Tokenomics.<br>
+  • Programming Languages: JavaScript (ES6/ES7+), TypeScript, Python, PHP, C#, Java, Solidity, HTML5, CSS3 <br>
+  • Frontend Development: React.js, Next.js, Vue.js, Redux, React Router, Bootstrap, Tailwind CSS <br>
+  • Backend Development: Node.js, Express.js, Laravel, Django, REST APIs, GraphQL <br>
+  • Mobile Development: Flutter, React Native, Android (Java/Kotlin), iOS (Swift), Cross-Platform Mobile Applications <br>
+  • Desktop Development: Electron.js, Tauri, .NET (WPF, WinForms), PyQt, Tkinter, Cross-Platform Desktop Applications, Native Windows Desktop Applications <br>
+  • Databases: MySQL, PostgreSQL, MongoDB, SQLite <br>
+  • AI & Automation, OpenAI API, Large Language Models (LLMs), LangChain, AI Agents, Machine Learning, Prompt Engineering, AI Workflow Automation <br>
+  • Blockchain Development: Blockchain Architecture, Smart Contracts, Solidity, Web3.js, NFTs, DeFi, DEX, Truffle, Rust, Solana, Tokenomics<br>
 
-  Now I specialize in web development & AI prompt(LLM), and I'm researching Blockchain technologies.<br>So, I'm gonna use it.
-  Please, get in touch me.<br>
-  Thanks!<br><br>
-
- 
+🚀 Current Focus<br>
+• Full Stack Web Development<br>
+• Mobile Application Development<br>
+• Desktop Application Development<br>
+• AI-Powered Applications<br>
+• LLM Integration & AI Automation<br>
+• SaaS Development<br>
+• Blockchain Solutions <br>
 
 ###  My Major Skill :  
   <div style="display: flex; align-items: flex-start; align: center">
@@ -136,10 +142,12 @@
 <br>
 <br>
 
+I am always excited to collaborate on innovative projects and transform ideas into reliable, scalable, and successful products.<br>
 
+📫 Feel free to reach out—I'd be happy to discuss your project. <br>
 
 
  
-<!-- ![snow-dev-1004's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devsworld36428&show_icons=true&theme=radical) -->
- <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsworld36428&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
-  <!-- [![snow-dev-1004's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Devsworld36428&theme=dark&background=000000)](https://git.io/streak-stats) -->
+![snow-dev-1004's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devsworld36428&show_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devsworld36428&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![snow-dev-1004's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Devsworld36428&theme=dark&background=000000)](https://git.io/streak-stats)
