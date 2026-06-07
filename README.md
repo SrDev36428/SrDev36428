@@ -146,8 +146,12 @@ I am always excited to collaborate on innovative projects and transform ideas in
 
 📫 Feel free to reach out—I'd be happy to discuss your project. <br>
 
-
- 
-![SrDev36428's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrDev36428&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrDev36428&layout=compact&theme=vision-friendly-dark)](https://github.com/SrDev36428/github-readme-stats)
-  [![SrDev36428's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SrDev36428&theme=dark&background=000000)](https://git.io/streak-stats)
+<h2>### ⚙️ &nbsp;GitHub Analytics</h2>
+<p align="center">
+  <a>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SrDev36428&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SrDev36428&layout=compact&langs_count=8&theme=algolia" target="_blank"/>
+  </a>
+</p>
+<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />
+[![SrDev36428's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SrDev36428&theme=dark&background=000000)](https://git.io/streak-stats)
